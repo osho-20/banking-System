@@ -9,12 +9,11 @@ This project is made using python as programming language and mysql as database.
 
 ![2022-07-08](https://user-images.githubusercontent.com/76126720/177982446-c5ea29d7-01dd-4b30-8a4d-0ba2cf38f9ff.png)
 
-
 ![2022-07-08 (1)](https://user-images.githubusercontent.com/76126720/177982537-87278f81-fc8e-4e67-809a-9fad0fca7294.png)
 
-![2022-07-08 (4)](https://user-images.githubusercontent.com/76126720/177982498-6e0d61e9-ee3a-4d1a-b6b3-969176905702.png)
-
 ![2022-07-08 (2)](https://user-images.githubusercontent.com/76126720/177982625-2ee30b09-f181-4ea6-a1bb-1296de654752.png)
+
+![2022-07-08 (4)](https://user-images.githubusercontent.com/76126720/177982498-6e0d61e9-ee3a-4d1a-b6b3-969176905702.png)
 
 ![2022-07-08 (5)](https://user-images.githubusercontent.com/76126720/177982659-730725d0-7353-468d-8419-32a6d1ddc410.png)
 
